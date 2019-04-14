@@ -1,0 +1,21 @@
+.centered {
+    position: absolute;
+    left: 40%; /* Отступ слева */
+    right: 30%; /* Отступ справа */
+    top: 20%;
+
+}
+.centered1 {
+    position: absolute;
+    left: 40%; /* Отступ слева */
+    right: 30%; /* Отступ справа */
+    top: 30%;
+
+}
+.centered2 {
+    position: absolute;
+    left: 40%; /* Отступ слева */
+    right: 30%; /* Отступ справа */
+    top: 40%;
+
+}
