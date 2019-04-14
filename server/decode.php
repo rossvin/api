@@ -60,7 +60,7 @@ class deCode
         }
             $this->del();
 
-        return implode($fin_item);
+        echo 'Ваш пароль <br><br>' . implode($fin_item);
 
         else:
             echo "Пароль устарел или просмотрен";
@@ -85,7 +85,7 @@ class deCode
 </head>
 
 <div class="centered2">
-<p><strong>Ваш пароль:</strong></p>
+
 <p>
     <?php
 
